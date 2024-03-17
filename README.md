@@ -37,6 +37,7 @@
 ###
 
 <div align="left">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" height="40" alt="ruby logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="40" alt="go logo"  />
@@ -91,19 +92,21 @@
 <div align="center">
   <h3>Rolex Watch Information App (Flutter & PHP API)</h3>
   <p>Discover the world of Rolex watches with our Flutter-based mobile app, powered by a seamless PHP API backend for comprehensive information and pricing details</p>
-    <div style="display: flex; justify-content: space-between;">
+  <div style="display: flex;">
     <a href="https://link-to-project-1">
-      <img src="https://media.licdn.com/dms/image/D4D22AQGV8DN0YmbuYg/feedshare-shrink_1280/0/1710642575300?e=1713398400&v=beta&t=_Guf52gyQJFY1Kq-YV9lBIlJzvZE3YkR3_FgUEhFT1M" alt="Project Image 1" style="border-radius: 5px; margin-bottom: 10px; height: 200px; width: 400px; object-fit: cover;" />
+      <img src="https://media.licdn.com/dms/image/D4D22AQGV8DN0YmbuYg/feedshare-shrink_1280/0/1710642575300?e=1713398400&v=beta&t=_Guf52gyQJFY1Kq-YV9lBIlJzvZE3YkR3_FgUEhFT1M" alt="Project Image 1" style="border-radius: 5px; margin-bottom: 10px; object-fit: cover;"  height="140"/>
     </a>
     <div style="width: 20px;"></div> <!-- Adjust the width for desired spacing -->
     <a href="https://link-to-project-2">
-      <img src="https://media.licdn.com/dms/image/D4D22AQGvHHODqYTDSA/feedshare-shrink_1280/0/1710642575184?e=1713398400&v=beta&t=2LbDHMCdjRm9mjjG4mUzPQzp-shM_c7vqV3aZtzwWJo" alt="Project Image 2" style="border-radius: 5px; margin-bottom: 10px; height: 200px; width: 400px; object-fit: cover;" />
+      <img src="https://media.licdn.com/dms/image/D4D22AQGvHHODqYTDSA/feedshare-shrink_1280/0/1710642575184?e=1713398400&v=beta&t=2LbDHMCdjRm9mjjG4mUzPQzp-shM_c7vqV3aZtzwWJo" alt="Project Image 2" style="border-radius: 5px; margin-bottom: 10px;  object-fit: cover;" height="140" />
     </a>
     <div style="width: 20px;"></div> <!-- Adjust the width for desired spacing -->
     <a href="https://link-to-project-3">
-      <img src="https://media.licdn.com/dms/image/D4D22AQFgayNmEHwd7Q/feedshare-shrink_1280/0/1710642575011?e=1713398400&v=beta&t=ASonEfPnQ-UglYuR4AuFhcIWVnFaeAdj7PUCiTxh1MA" alt="Project Image 3" style="border-radius: 5px; margin-bottom: 10px; height: 200px; width: 400px; object-fit: cover;" />
+      <img src="https://media.licdn.com/dms/image/D4D22AQFgayNmEHwd7Q/feedshare-shrink_1280/0/1710642575011?e=1713398400&v=beta&t=ASonEfPnQ-UglYuR4AuFhcIWVnFaeAdj7PUCiTxh1MA" alt="Project Image 3" style="border-radius: 5px; margin-bottom: 10px; object-fit: cover;" height="140"/>
     </a>
 </div>
+
+
 </div>
 <!-- Add more project sections as needed -->
 
