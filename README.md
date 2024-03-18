@@ -84,7 +84,7 @@
 
 <div align="center">
   <h3>Resume</h3>
-  <a href="https://drive.google.com/file/d/1iYXBmp7hNwZO8kt16v9e9FUGYwkgePzl/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/17dmQuUWvDLVjNQgKDDjpeoGAFsi7MH4c/view?usp=sharing" target="_blank">
     <img src="https://img.icons8.com/?size=256&id=251Vpt5Qt2i5&format=png" alt="Resume Icon" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;" />
   </a>
   <p>Click the icon to view/download my resume</p>
