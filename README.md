@@ -1,5 +1,3 @@
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/hm-coder-307a23269/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -82,6 +80,14 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F7A7&random=false&width=435&lines=Coding+with+CoderWorm" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
+  <h3>Resume</h3>
+  <a href="https://drive.google.com/file/d/1iYXBmp7hNwZO8kt16v9e9FUGYwkgePzl/view?usp=sharing" target="_blank">
+    <img src="https://icons8.com/icon/bLp8jngMI59L/resume" alt="Resume Icon" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;" />
+  </a>
+  <p>Click the icon to view/download my resume</p>
 </div>
 
 <h3 align="left">🚀 Projects</h3>
